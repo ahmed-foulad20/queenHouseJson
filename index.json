@@ -154,7 +154,7 @@
       "name":"Skin",
       "image":"",
       "layout":"threeColumn",
-      "isSnapping":true,
+      "isSnapping":false,
       "category":313
       
     },
