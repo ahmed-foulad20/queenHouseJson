@@ -141,9 +141,7 @@
       "layout":"threeColumn",
       "isSnapping":true,
       "category":55
-      
-    },
-   
+    }
   ],
   "Setting":{
     "MainColor":"#F1ABB9",
