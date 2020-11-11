@@ -144,12 +144,60 @@
         }
       ]
     },
-
     {
       "name":"New Collections",
       "layout":"staggered",
       "limit":20
      
+    },
+    {
+      "name":"Skin",
+      "image":"",
+      "layout":"threeColumn",
+      "isSnapping":true
+      
+    },
+    {
+      "name":"Make up",
+      "image":"",
+      "layout":"threeColumn",
+      "isSnapping":true
+      
+    },
+    {
+      "name":"Hair",
+      "image":"",
+      "layout":"threeColumn",
+      "isSnapping":true
+      
+    },
+    {
+      "name":"Perfume",
+      "image":"",
+      "layout":"threeColumn",
+      "isSnapping":true
+      
+    },
+    {
+      "name":"Lingerie",
+      "image":"",
+      "layout":"threeColumn",
+      "isSnapping":true
+      
+    },
+    {
+      "name":"Accessories",
+      "image":"",
+      "layout":"threeColumn",
+      "isSnapping":true
+      
+    },
+    {
+      "name":"Electronics",
+      "image":"",
+      "layout":"threeColumn",
+      "isSnapping":true
+      
     }
   ],
   "Setting":{
