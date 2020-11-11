@@ -154,49 +154,56 @@
       "name":"Skin",
       "image":"",
       "layout":"threeColumn",
-      "isSnapping":true
+      "isSnapping":true,
+      "category":313
       
     },
     {
       "name":"Make up",
       "image":"",
       "layout":"threeColumn",
-      "isSnapping":true
+      "isSnapping":true,
+      "category":29
       
     },
     {
       "name":"Hair",
       "image":"",
       "layout":"threeColumn",
-      "isSnapping":true
+      "isSnapping":true,
+      "category":51
       
     },
     {
       "name":"Perfume",
       "image":"",
       "layout":"threeColumn",
-      "isSnapping":true
+      "isSnapping":true,
+      "category":52
       
     },
     {
       "name":"Lingerie",
       "image":"",
       "layout":"threeColumn",
-      "isSnapping":true
+      "isSnapping":true,
+      "category":53
       
     },
     {
       "name":"Accessories",
       "image":"",
       "layout":"threeColumn",
-      "isSnapping":true
+      "isSnapping":true,
+      "category":54
       
     },
     {
       "name":"Electronics",
       "image":"",
       "layout":"threeColumn",
-      "isSnapping":true
+      "isSnapping":true,
+      "category":55
       
     }
   ],
