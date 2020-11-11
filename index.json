@@ -21,6 +21,11 @@
       "layout":"header_search",
       "text":"Search for a product"
     },
+         {
+      "name": "instgram",
+      "layout": "instagram",
+      "tag": "queenhouse.bh"
+    },
     {
       "layout":"bannerImage",
       "isSlider":true,
@@ -31,11 +36,6 @@
       "radius":2.0,
       "height":0.15,
       "items":[
-           {
-      "name": "instgram",
-      "layout": "instagram",
-      "tag": "queenhouse.bh"
-    },
         {
           "category":313,
           "image":"https://iili.io/FKBel2.jpg",
