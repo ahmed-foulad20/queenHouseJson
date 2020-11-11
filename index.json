@@ -148,8 +148,8 @@
     {
       "name":"New Collections",
       "layout":"staggered",
-      "limit":20,
-      "category":473
+      "limit":20
+     
     }
   ],
   "Setting":{
