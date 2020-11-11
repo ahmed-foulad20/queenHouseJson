@@ -21,11 +21,7 @@
       "layout":"header_search",
       "text":"Search for a product"
     },
-         {
-      "name": "instgram",
-      "layout": "instagram",
-      "tag": "queenhouse.bh"
-    },
+    
     {
       "layout":"bannerImage",
       "isSlider":true,
@@ -174,4 +170,4 @@
   "Background":{
     "height":0.3,
     "color":"#026DCD",
-    "image":"https://iili.io/FKBhoG.jpg"}}
+    "image":"https://iili.io/FKuzTN.jpg"}}
