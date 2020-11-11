@@ -31,6 +31,11 @@
       "radius":2.0,
       "height":0.15,
       "items":[
+           {
+      "name": "Share your look",
+      "layout": "instagram",
+      "tag": "queenhouse.bh"
+    },
         {
           "category":313,
           "image":"https://iili.io/FKBel2.jpg",
@@ -140,11 +145,7 @@
     },
    
   ],
-   {
-      "name": "Share your look",
-      "layout": "instagram",
-      "tag": "queenhouse.bh"
-    },
+
   "Setting":{
     "MainColor":"#F1ABB9",
     "ProductListLayout":"list",
