@@ -48,75 +48,7 @@
         }
       ]
     },
-    {
-      "layout":"category",
-      "type":"icon",
-      "wrap":true,
-      "size":1.2,
-      "radius":50.0,
-      "noBackground":true,
-      "columns":4,
-      "padding":10.0,
-      "items":[
-        {
-          "category":491,
-         
-          "image":"assets/icons/categories/cate1.png",
-          "colors":["#3CC2BF",
-            "#3CC2BF"],
-          "originalColor":true
-        },
-        {
-          "category":313,
-          "image":"assets/icons/categories/cate2.png",
-          "colors":["#3E6AB5",
-            "#3E6AB5"],
-          "originalColor":true
-        },
-        {
-          "category":500,
-          "image":"assets/icons/categories/cate3.png",
-          "colors":["#53A2CC",
-            "#53A2CC"],
-          "originalColor":true
-        },
-        {
-          "category":512,
-          "image":"assets/icons/categories/cate4.png",
-          "colors":["#53688A",
-            "#53688A"],
-          "originalColor":true
-        },
-        {
-          "category":501,
-          "image":"assets/icons/categories/cate5.png",
-          "colors":["#43506A",
-            "#43506A"],
-          "originalColor":true
-        },
-        {
-          "category":276,
-          "image":"assets/icons/categories/cate6.png",
-          "colors":["#12B58C",
-            "#12B58C"],
-          "originalColor":true
-        },
-        {
-          "category":538,
-          "image":"assets/icons/categories/cate7.png",
-          "colors":["#3CC2BF",
-            "#3CC2BF"],
-          "originalColor":true
-        },
-        {
-          "category":536,
-          "image":"assets/icons/categories/cate8.png",
-          "colors":["#3E6AB5",
-            "#3E6AB5"],
-          "originalColor":true
-        }
-      ]
-    },
+    
     {
       "name":"Recent View",
       "layout":"recentView"
