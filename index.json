@@ -137,6 +137,11 @@
       "isSnapping":true,
       "category":55
       
+    },
+    {
+      "name": "Share your look",
+      "layout": "instagram",
+      "tag": "fashionmodel"
     }
   ],
   "Setting":{
