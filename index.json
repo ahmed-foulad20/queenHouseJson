@@ -122,11 +122,8 @@
       ]
     },
     {
-      "name":"Recent View",
-      "layout":"recentView"
-    },
-    {
       "name":"Latest Products",
+      "name_ar":"احدث المنتجات"
       "image":"",
       "layout":"threeColumn",
       "isSnapping":true
@@ -150,6 +147,7 @@
     },
     {
       "name":"New Collections",
+      "name_ar": "مجموعات جديدة",
       "layout":"staggered",
       "limit":20
      
@@ -215,6 +213,11 @@
       "layout":"threeColumn",
       "isSnapping":true,
       "category":55
+    },
+    {
+      "name":"Recent View",
+      "name_ar":"شاهدت",
+      "layout":"recentView"
     }
   ],
   "Setting":{
