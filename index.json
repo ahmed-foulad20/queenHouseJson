@@ -123,7 +123,7 @@
     },
     {
       "name":"Latest Products",
-      "name_ar":"احدث المنتجات"
+      "name_ar":"احدث المنتجات",
       "image":"",
       "layout":"threeColumn",
       "isSnapping":true
