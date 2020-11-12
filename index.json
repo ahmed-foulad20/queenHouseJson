@@ -48,11 +48,7 @@
         }
       ]
     },
-    {
-      "name": "Share your look",
-      "layout": "instagram",
-      "tag": "queenhouse.bh"
-    },
+
      {
       "layout":"category",
       "type":"icon",
