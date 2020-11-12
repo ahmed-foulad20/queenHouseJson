@@ -61,6 +61,7 @@
       "items":[
         {
           "category":50,
+          "name_ar":"البشرة",
           "image":"https://iili.io/FKy83g.png",
           "colors":["#3CC2BF",
             "#3CC2BF"],
@@ -68,6 +69,7 @@
         },
         {
           "category":29,
+          "name_ar":"مستحضرات تجميل",
           "image":"https://iili.io/FKySaa.png",
           "colors":["#3E6AB5",
             "#3E6AB5"],
@@ -75,6 +77,7 @@
         },
         {
           "category":51,
+          "name_ar":"شعر",
           "image":"https://iili.io/FKyU8J.png",
           "colors":["#53A2CC",
             "#53A2CC"],
@@ -82,6 +85,7 @@
         },
         {
           "category":52,
+          "name_ar":"عطور",
           "image":"https://iili.io/FKygyv.png",
           "colors":["#53688A",
             "#53688A"],
@@ -89,6 +93,7 @@
         },
         {
           "category":53,
+          "name_ar":"لانجري",
           "image":"https://iili.io/FKy4uR.png",
           "colors":["#43506A",
             "#43506A"],
@@ -96,6 +101,7 @@
         },
         {
           "category":54,
+          "name_ar":"اكسسوارات",
           "image":"https://iili.io/FKy6jp.png",
           "colors":["#12B58C",
             "#12B58C"],
@@ -103,6 +109,7 @@
         },
         {
           "category":55,
+          "name_ar":"اليكترونيات",
           "image":"https://iili.io/FKysnI.png",
           "colors":["#3CC2BF",
             "#3CC2BF"],
@@ -110,6 +117,7 @@
         },
         {
           "category":56,
+          "name_ar":"عروض",
           "image":"https://iili.io/FKyLGt.png",
           "colors":["#3E6AB5",
             "#3E6AB5"],
