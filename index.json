@@ -65,58 +65,58 @@
       "padding":10.0,
       "items":[
         {
-          "category":491,
+          "category":50,
 
-          "image":"assets/icons/categories/cate1.png",
+          "image":"https://iili.io/FKy83g.png",
           "colors":["#3CC2BF",
             "#3CC2BF"],
           "originalColor":true
         },
         {
-          "category":313,
-          "image":"assets/icons/categories/cate2.png",
+          "category":29,
+          "image":"https://iili.io/FKySaa.png",
           "colors":["#3E6AB5",
             "#3E6AB5"],
           "originalColor":true
         },
         {
-          "category":500,
-          "image":"assets/icons/categories/cate3.png",
+          "category":51,
+          "image":"https://iili.io/FKyU8J.png",
           "colors":["#53A2CC",
             "#53A2CC"],
           "originalColor":true
         },
         {
-          "category":512,
-          "image":"assets/icons/categories/cate4.png",
+          "category":52,
+          "image":"https://iili.io/FKygyv.png",
           "colors":["#53688A",
             "#53688A"],
           "originalColor":true
         },
         {
-          "category":501,
-          "image":"assets/icons/categories/cate5.png",
+          "category":53,
+          "image":"https://iili.io/FKy4uR.png",
           "colors":["#43506A",
             "#43506A"],
           "originalColor":true
         },
         {
-          "category":276,
-          "image":"assets/icons/categories/cate6.png",
+          "category":54,
+          "image":"https://iili.io/FKy6jp.png",
           "colors":["#12B58C",
             "#12B58C"],
           "originalColor":true
         },
         {
-          "category":538,
-          "image":"assets/icons/categories/cate7.png",
+          "category":55,
+          "image":"https://iili.io/FKysnI.png",
           "colors":["#3CC2BF",
             "#3CC2BF"],
           "originalColor":true
         },
         {
-          "category":536,
-          "image":"assets/icons/categories/cate8.png",
+          "category":56,
+          "image":"https://iili.io/FKyLGt.png",
           "colors":["#3E6AB5",
             "#3E6AB5"],
           "originalColor":true
