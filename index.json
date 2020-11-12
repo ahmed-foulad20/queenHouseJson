@@ -156,7 +156,7 @@
     },
     {
       "name":"Skin",
-      "name_ar":"العناية بالجلد و البشرة"
+      "name_ar":"العناية بالجلد و البشرة",
       "image":"",
       "layout":"threeColumn",
       "isSnapping":false,
@@ -165,7 +165,7 @@
     },
     {
       "name":"Make up",
-      "name_ar":"مستحضرات تجميل"
+      "name_ar":"مستحضرات تجميل",
       "image":"",
       "layout":"threeColumn",
       "isSnapping":true,
@@ -174,7 +174,7 @@
     },
     {
       "name":"Hair",
-      "name_ar":"العناية بالشعر"
+      "name_ar":"العناية بالشعر",
       "image":"",
       "layout":"threeColumn",
       "isSnapping":true,
@@ -183,7 +183,7 @@
     },
     {
       "name":"Perfume",
-      "name_ar":"عطور"
+      "name_ar":"عطور",
       "image":"",
       "layout":"threeColumn",
       "isSnapping":true,
@@ -192,7 +192,7 @@
     },
     {
       "name":"Lingerie",
-      "name_ar":"لانجري"
+      "name_ar":"لانجري",
       "image":"",
       "layout":"threeColumn",
       "isSnapping":true,
